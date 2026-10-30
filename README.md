@@ -63,5 +63,5 @@ believe their filing is handled.
 
 ---
 
-📍 Córdoba, Argentina · IT at Alfredo S. Mondino
+📍 Córdoba, Argentina · IT 
 💬 Spanish / English · Issues and PRs welcome on any of my repos
